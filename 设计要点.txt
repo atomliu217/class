@@ -1,0 +1,11 @@
+一、全屏显示，并获取屏幕尺寸
+二、获取图片，通过assets
+三、图片分割
+四、创建视图类
+五、画图 ondraw
+六、打乱图片顺序  board类
+七、OnTouch响应
+八、判断成功 
+
+
+https://github.com/atomliu217/PuzzlePic
